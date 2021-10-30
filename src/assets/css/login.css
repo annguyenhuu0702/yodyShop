@@ -1,0 +1,104 @@
+.page-login {
+    position: relative;
+    background: url('https://storage.googleapis.com/cdn.nhanh.vn/store/3138/bn/sb_1608724697_645.jpg') no-repeat center;
+    margin: 40px 0;
+}
+
+.overlay-bg {
+    position: absolute;
+    background: #333;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.9;
+}
+
+.tab-logo-user {
+    padding: 80px 15px;
+}
+
+.content-tab-logo h1 {
+    color: var(--white-color);
+    font-weight: 500;
+}
+
+.content-tab-logo p {
+    color: var(--white-color);
+    font-size: 1.6rem;
+}
+
+.tab-action-user {
+    background: var(--white-color);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.formAcount {
+    padding: 30px;
+}
+
+.formAcount h1 {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.formAcount p {
+    font-size: 1.6rem;
+    color: var(--text-color);
+    font-weight: 500;
+    margin: 20px 0;
+}
+
+.formAcount a {
+    color: var(--blue-color);
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.form-group {
+    margin: 20px 0;
+}
+
+.form-group label {
+    padding: 0;
+    font-size: 1.6rem;
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.form-input {
+    padding-left: 0;
+}
+
+.form-input input {
+    font-size: 1.6rem;
+    color: var(--text-color);
+    font-weight: 500;
+    padding: 20px 12px;
+}
+
+.form-group a {
+    font-size: 1.7rem;
+    color: #3183ff;
+    font-weight: 400;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.form-group-login {
+    padding-left: 0;
+}
+
+.form-group-login button {
+    background-color: var(--blue-color);
+    min-height: 55px;
+    outline: none;
+    border: none;
+}
+
+.form-group-login a {
+    font-size: 2rem;
+    color: var(--white-color);
+}

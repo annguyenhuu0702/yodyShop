@@ -1,0 +1,23 @@
+.policy {
+    margin-bottom: 10px;
+}
+
+.policy-item {
+    display: flex;
+    align-items: center;
+    margin: 20px 0 20px 0;
+}
+
+.policy-content {
+    margin: 0 10px;
+}
+
+.policy-content__title {
+    color: var(--text-color);
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.policy-content__desciption {
+    font-size: 1.3rem;
+}

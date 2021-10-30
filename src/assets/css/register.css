@@ -1,0 +1,17 @@
+.page-register {
+    position: relative;
+    background: url('https://storage.googleapis.com/cdn.nhanh.vn/store/3138/bn/sb_1608724697_645.jpg') no-repeat center;
+    margin: 40px 0;
+}
+
+.show-password {
+    position: absolute;
+    top: 15px;
+    right: 25px;
+}
+
+.show-password i {
+    font-size: 1.6rem;
+    color: var(--text-hover-color);
+    font-weight: 400;
+}
